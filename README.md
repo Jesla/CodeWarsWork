@@ -1,1 +1,1 @@
-Code Wars Solutions
+Code Wars Solutions - Javascript Questions
